@@ -1,0 +1,28 @@
+{
+  "name": "ftmo-pro-robots-landing",
+  "version": "1.0.0",
+  "description": "Professional landing page for FTMO forex trading robots with 85% success rate",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "forex",
+    "trading",
+    "FTMO",
+    "prop-firm",
+    "expert-advisor",
+    "automated-trading",
+    "landing-page"
+  ],
+  "author": "FTMO Pro Robots",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ftmo-pro-robots-landing"
+  },
+  "homepage": "https://your-domain.vercel.app"
+}
+
